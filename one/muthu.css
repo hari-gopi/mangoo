@@ -1,0 +1,29 @@
+
+.head{
+   font-size: 25px;
+   text-align: center;
+   width: 600px;
+   height: 100vh;
+   border: 6px solid black;
+   margin-right: 40px;
+   background-color: rgb(206, 126, 5);
+}
+.DEATH{
+    font-size: 15px;
+   text-align: center;
+}
+.luffy{
+    text-align: center;
+    font-size: 30px;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    height: 100vh;
+}
+img{
+    height: 40%;
+    width: 60%;
+}
